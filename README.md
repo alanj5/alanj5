@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**alanj5/alanj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alan Jiang
 
-Here are some ideas to get you started:
+Software Engineer at Wise (Treasury / FX Risk) and Computing graduate from Imperial College London.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in systems engineering, performance optimisation and quantitative software development, primarily using C++ and Python.
+
+### Featured project
+
+**[microback](https://github.com/alanj5/microback)** — C++20 market microstructure and backtesting engine.
+
+- Deterministic market replay, FIFO limit order book and execution simulation
+- Python research interface via pybind11
+- Automated C++/Python tests and reproducible performance benchmarks
+- Market-making and order-book imbalance strategy experiments
+
+### Technologies
+
+C++ · Python · Linux · Kafka · SQL · Docker · Git
+
+[LinkedIn](https://www.linkedin.com/in/alanjiang05/)
