@@ -7,7 +7,7 @@ Interested in systems engineering, performance optimisation and quantitative sof
 
 ### Featured project
 
-**[microback](https://github.com/alanj5/microback)** — C++20 market microstructure and backtesting engine.
+**[microback](https://github.com/alanj5/microback)** - a C++20 market microstructure and backtesting engine.
 
 - Deterministic market replay, FIFO limit order book and execution simulation
 - Python research interface via pybind11
